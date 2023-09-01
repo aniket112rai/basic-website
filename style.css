@@ -1,0 +1,43 @@
+html{
+    font-size:27px;
+}
+body{
+    background-color: black;
+    color: aliceblue;
+}
+a:active,a{
+    font-size: 33px;
+    color: rgb(215, 23, 23);
+}
+span{
+    font-size: 27px;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+h1,footer{
+    text-align: center;
+}
+.a{
+    text-align: center;
+}
+a:hover{
+    color: aliceblue;
+}
+.fade-in-image{
+    opacity: 75%;
+}
+.fade-in-image:hover{
+    opacity: 100%;
+    transition: opacity 1s;
+    
+}
+#rai{
+    border-radius: 50%;
+}
+td.fade:hover{
+    transform:scale(1.15);
+    transition: .25s;
+
+}
